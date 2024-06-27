@@ -1,3 +1,3 @@
-# IBM-Data-Science1
+# Data-Science-practice-codes
 ## editing the file
-it is a markdown file in repository.
+It is a markdown file in repository.
